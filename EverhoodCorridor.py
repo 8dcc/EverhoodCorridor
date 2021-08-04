@@ -74,8 +74,7 @@ except KeyboardInterrupt:
     exit(1)
 except Exception as e:
     keyboard.release("d")
-    print(f"\n\n {e}")
-    print()
+    print(f"\n\n {e} \n")
     exit(1)
 
 exit(1)
