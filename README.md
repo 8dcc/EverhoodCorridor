@@ -6,3 +6,7 @@ Had fun making the script. Run it with [Cheat Engine](https://github.com/cheat-e
 *Love the game btw.*
 
 ![Road to 900](https://u.teknik.io/3uGRg.png)
+
+---
+
+![The 900](https://u.teknik.io/j5weW.png)
